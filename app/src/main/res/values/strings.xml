@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Still Vertical</string>
+    <string name="no_records">No previous notifications</string>
+    <string name="okay_button">I\'m Okay!</string>
+    <string name="last_time_prefix">You last told your loved one you we\'re okay on:\n "</string>
+    <string name="action_completed">You just told your loved one you\'re okay</string>
+</resources>

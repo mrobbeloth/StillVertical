@@ -1,0 +1,10 @@
+@startuml
+:First actor: as Senior
+:Second actor: as Relative
+
+Senior <<Senior Citizen>>
+Relative <<Concerned Relative>>
+
+Senior --> (Tell Relative I am okay)
+Relative --> (Acknowlege status)
+@enduml

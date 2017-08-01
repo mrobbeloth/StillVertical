@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\mrobb_000\\AndroidStudioProjects\\StillVertical\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\mrobb_000\\.android\\build-cache\\229e37880f33795194a082c1dbba7d65d63cc8ba\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrobb_000\\AndroidStudioProjects\\StillVertical\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\mrobb_000\\.android\\build-cache\\229e37880f33795194a082c1dbba7d65d63cc8ba\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrobb_000\\AndroidStudioProjects\\StillVertical\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\mrobb_000\\.android\\build-cache\\229e37880f33795194a082c1dbba7d65d63cc8ba\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrobb_000\\AndroidStudioProjects\\StillVertical\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\mrobb_000\\.android\\build-cache\\229e37880f33795194a082c1dbba7d65d63cc8ba\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]
