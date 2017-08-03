@@ -1,7 +1,0 @@
-#Thu Aug 03 16:52:42 EDT 2017
-base.0=C\:\\Users\\microbbeloth\\AndroidStudioProjects\\StillVertical\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b900bbbb00eae055319fbcf4969f697c3bd1161b
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\microbbeloth\\AndroidStudioProjects\\StillVertical\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_63574d4ba46dcd0f36949e51ed11904e3303bf48\\classes.dex
-base.1=C\:\\Users\\microbbeloth\\AndroidStudioProjects\\StillVertical\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_63574d4ba46dcd0f36949e51ed11904e3303bf48
-file.0=C\:\\Users\\microbbeloth\\AndroidStudioProjects\\StillVertical\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b900bbbb00eae055319fbcf4969f697c3bd1161b\\classes.dex
