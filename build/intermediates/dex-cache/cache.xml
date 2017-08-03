@@ -2,22 +2,22 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\Users\mrobb_000\.android\build-cache\e133333ab3748b89afad84ae48f59f011a64b769\output\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\build\intermediates\pre-dexed\debug\classes_e5d4b3f2102bfa36de72a0c114b1c9e09f3e6239.jar" />
+        sha1="1c67fee86c82ec106c812131822bd1a038bdc918">
+        <dex dex="C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b900bbbb00eae055319fbcf4969f697c3bd1161b\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\mrobb_000\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_b6ad4a994d2024481cc72f1462cce7360f668fe9.jar" />
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_63574d4ba46dcd0f36949e51ed11904e3303bf48\classes.dex" />
     </item>
 
 </items>

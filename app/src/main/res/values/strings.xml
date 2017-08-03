@@ -4,4 +4,9 @@
     <string name="okay_button">I\'m Okay!</string>
     <string name="last_time_prefix">You last told your loved one you we\'re okay on:\n "</string>
     <string name="action_completed">You just told your loved one you\'re okay</string>
+    <string name="previous_times">Previous Check-ins:</string>
+    <string name="next_button_text">Next</string>
+    <string name="prev_button_text">Previous</string>
+    <string name="time_frozen">Time is frozen</string>
+    <string name="elapsed_time">Elapsed time since last check-in:</string>
 </resources>

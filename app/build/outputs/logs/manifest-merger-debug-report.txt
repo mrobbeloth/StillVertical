@@ -1,87 +1,87 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:3:5-58
-		INJECTED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:3:5-58
+		INJECTED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:5:5-19:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mrobb_000\.android\build-cache\229e37880f33795194a082c1dbba7d65d63cc8ba\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\mrobb_000\.android\build-cache\7bd1236658b0d33b7b5a5296593d851c3cf2501c\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\mrobb_000\.android\build-cache\f0793b790b87809a8b9b42feaf050e199c5e0710\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\mrobb_000\.android\build-cache\4d5d93cdb31099e63b8766b4f11f610e1719fe68\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\mrobb_000\.android\build-cache\716c75e0855dc73d93f8b0fc23dfb199f8e6d6e6\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\mrobb_000\.android\build-cache\8db69da1590c8760a484442adc46096562047117\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\mrobb_000\.android\build-cache\9cc2ba55cf92f535601289e1c5f293302249eca2\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\mrobb_000\.android\build-cache\8eb461ebe75f64c4a639d944ca4071cdf83e1495\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\mrobb_000\.android\build-cache\0b9e50271691554e83e26681715ae2ad1cbe4fb0\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\mrobb_000\.android\build-cache\e133333ab3748b89afad84ae48f59f011a64b769\output\AndroidManifest.xml:9:5-20
+ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\microbbeloth\.android\build-cache\7f6ad1a399980e6526d2b05cec66ef01a4145b57\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\microbbeloth\.android\build-cache\8845b7ccdc22bdb92a438b5811d4695b2721bb9e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\microbbeloth\.android\build-cache\735458aaa0d481084c1d012c506c56186753e2aa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\microbbeloth\.android\build-cache\2fc8a40ac63afef05cb5807854abc2754e0ede47\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\microbbeloth\.android\build-cache\40da8809b11d5839d17e131322158da6617c46a2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\microbbeloth\.android\build-cache\dcf21caa422607b78d8dfa85f95d97389d3b5d94\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\microbbeloth\.android\build-cache\cf3a63436e644838f6229279d492e49ca17cbe0c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\microbbeloth\.android\build-cache\fa4f4be4f8f986619b1f918e258c04a8259ed28c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\microbbeloth\.android\build-cache\ca0ad5948f0e4586f88cb72eb6a3086675462b9b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\microbbeloth\.android\build-cache\f59a71c1390680241969f020391281e2b08f4fd1\output\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:10:9-35
 	android:roundIcon
-		ADDED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:9:9-54
 	android:allowBackup
-		ADDED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:11:9-40
 activity#robbeloth.consulting.services.stillvertical.NotifyRelativeActivity
-ADDED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:12:19-57
+		ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:12:19-57
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:16:27-74
 uses-sdk
-INJECTED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mrobb_000\.android\build-cache\229e37880f33795194a082c1dbba7d65d63cc8ba\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\mrobb_000\.android\build-cache\7bd1236658b0d33b7b5a5296593d851c3cf2501c\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\mrobb_000\.android\build-cache\f0793b790b87809a8b9b42feaf050e199c5e0710\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\mrobb_000\.android\build-cache\4d5d93cdb31099e63b8766b4f11f610e1719fe68\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\mrobb_000\.android\build-cache\716c75e0855dc73d93f8b0fc23dfb199f8e6d6e6\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\mrobb_000\.android\build-cache\8db69da1590c8760a484442adc46096562047117\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\mrobb_000\.android\build-cache\9cc2ba55cf92f535601289e1c5f293302249eca2\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\mrobb_000\.android\build-cache\8eb461ebe75f64c4a639d944ca4071cdf83e1495\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\mrobb_000\.android\build-cache\0b9e50271691554e83e26681715ae2ad1cbe4fb0\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\mrobb_000\.android\build-cache\e133333ab3748b89afad84ae48f59f011a64b769\output\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\microbbeloth\.android\build-cache\7f6ad1a399980e6526d2b05cec66ef01a4145b57\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\microbbeloth\.android\build-cache\8845b7ccdc22bdb92a438b5811d4695b2721bb9e\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\microbbeloth\.android\build-cache\735458aaa0d481084c1d012c506c56186753e2aa\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\microbbeloth\.android\build-cache\2fc8a40ac63afef05cb5807854abc2754e0ede47\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\microbbeloth\.android\build-cache\40da8809b11d5839d17e131322158da6617c46a2\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\microbbeloth\.android\build-cache\dcf21caa422607b78d8dfa85f95d97389d3b5d94\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\microbbeloth\.android\build-cache\cf3a63436e644838f6229279d492e49ca17cbe0c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\microbbeloth\.android\build-cache\fa4f4be4f8f986619b1f918e258c04a8259ed28c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\microbbeloth\.android\build-cache\ca0ad5948f0e4586f88cb72eb6a3086675462b9b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\microbbeloth\.android\build-cache\f59a71c1390680241969f020391281e2b08f4fd1\output\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mrobb_000\.android\build-cache\229e37880f33795194a082c1dbba7d65d63cc8ba\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\microbbeloth\.android\build-cache\7f6ad1a399980e6526d2b05cec66ef01a4145b57\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\mrobb_000\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mrobb_000\.android\build-cache\229e37880f33795194a082c1dbba7d65d63cc8ba\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\mrobb_000\.android\build-cache\7bd1236658b0d33b7b5a5296593d851c3cf2501c\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\mrobb_000\.android\build-cache\f0793b790b87809a8b9b42feaf050e199c5e0710\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\mrobb_000\.android\build-cache\4d5d93cdb31099e63b8766b4f11f610e1719fe68\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\mrobb_000\.android\build-cache\716c75e0855dc73d93f8b0fc23dfb199f8e6d6e6\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\mrobb_000\.android\build-cache\8db69da1590c8760a484442adc46096562047117\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\mrobb_000\.android\build-cache\9cc2ba55cf92f535601289e1c5f293302249eca2\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\mrobb_000\.android\build-cache\8eb461ebe75f64c4a639d944ca4071cdf83e1495\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\mrobb_000\.android\build-cache\0b9e50271691554e83e26681715ae2ad1cbe4fb0\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\microbbeloth\.android\build-cache\7f6ad1a399980e6526d2b05cec66ef01a4145b57\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\microbbeloth\.android\build-cache\8845b7ccdc22bdb92a438b5811d4695b2721bb9e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\microbbeloth\.android\build-cache\735458aaa0d481084c1d012c506c56186753e2aa\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\microbbeloth\.android\build-cache\2fc8a40ac63afef05cb5807854abc2754e0ede47\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\microbbeloth\.android\build-cache\40da8809b11d5839d17e131322158da6617c46a2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\microbbeloth\.android\build-cache\dcf21caa422607b78d8dfa85f95d97389d3b5d94\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\microbbeloth\.android\build-cache\cf3a63436e644838f6229279d492e49ca17cbe0c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\microbbeloth\.android\build-cache\fa4f4be4f8f986619b1f918e258c04a8259ed28c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\microbbeloth\.android\build-cache\ca0ad5948f0e4586f88cb72eb6a3086675462b9b\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mrobb_000\.android\build-cache\229e37880f33795194a082c1dbba7d65d63cc8ba\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\microbbeloth\.android\build-cache\7f6ad1a399980e6526d2b05cec66ef01a4145b57\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mrobb_000\.android\build-cache\229e37880f33795194a082c1dbba7d65d63cc8ba\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\microbbeloth\.android\build-cache\7f6ad1a399980e6526d2b05cec66ef01a4145b57\output\AndroidManifest.xml:26:9-47
