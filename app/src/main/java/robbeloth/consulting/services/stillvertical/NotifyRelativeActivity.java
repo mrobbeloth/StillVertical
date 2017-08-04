@@ -6,6 +6,7 @@ import java.util.Calendar;
 import android.os.SystemClock;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Chronometer;
@@ -43,6 +44,8 @@ public class NotifyRelativeActivity extends AppCompatActivity {
         mIAmOkayButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
+                Log.d("NRActivity", "Relative clicked I am okay");
 
                 // Store time of checkin by elderly relative
                 Calendar c = Calendar.getInstance();
