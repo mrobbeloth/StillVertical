@@ -7,4 +7,5 @@ Relative <<Concerned Relative>>
 
 Senior --> (Tell Relative I am okay)
 Relative --> (Acknowlege status)
+Relative --> (Set up contact information)
 @enduml

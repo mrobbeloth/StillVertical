@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:3:5-58
+		ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:3:11-64
 		INJECTED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -14,7 +14,7 @@ ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\mai
 		INJECTED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:5:5-19:19
+ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:5:5-21:19
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\microbbeloth\.android\build-cache\7f6ad1a399980e6526d2b05cec66ef01a4145b57\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\microbbeloth\.android\build-cache\8845b7ccdc22bdb92a438b5811d4695b2721bb9e\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\microbbeloth\.android\build-cache\735458aaa0d481084c1d012c506c56186753e2aa\output\AndroidManifest.xml:29:5-20
@@ -44,13 +44,17 @@ ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\mai
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:14:17-68
 	android:name
 		ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:16:17-76
 	android:name
 		ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:16:27-74
+activity#robbeloth.consulting.services.stillvertical.NotificationSetupActivity
+ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:19:9-20:20
+	android:name
+		ADDED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml:19:19-60
 uses-sdk
 INJECTED from C:\Users\microbbeloth\AndroidStudioProjects\StillVertical\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\microbbeloth\.android\build-cache\7f6ad1a399980e6526d2b05cec66ef01a4145b57\output\AndroidManifest.xml:21:5-23:78

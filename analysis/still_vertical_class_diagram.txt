@@ -1,0 +1,27 @@
+@startuml
+class Notification {
+-Date entry 
+Date getEntry 
+setEntry(Date entry)
+}
+
+class ContactSetup {
+-String name
+-String email
+-String phone
++String getName()
++String getEmail()
++String getPhone()
++void setName(String name)
++void setEmail(String email)
++void setPhone(String phone)
+}
+	
+class NotificationRelativeActivity {
+ # void onCreate(Bundle savedInstanceState)
+ # void onSaveInstanceState(Bundle outState)
+}
+class NotificationSetupActivity {
+}
+
+@enduml
