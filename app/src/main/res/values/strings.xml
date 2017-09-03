@@ -13,4 +13,9 @@
     <string name="email">Email:</string>
     <string name="phone">Phone:</string>
     <string name="update_button_text">Update</string>
+    <string name="Setup">Setup...</string>
+    <string name="default_name">Spock</string>
+    <string name="default_phone">(123) 456-7890</string>
+    <string name="default_email">spock_enterprise@ufp.org</string>
+    <string name="contact_updated">Contact information updated successfully!</string>
 </resources>

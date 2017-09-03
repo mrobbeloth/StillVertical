@@ -408,6 +408,7 @@
     <integer name="abc_config_activityShortDur">150</integer>
     <integer name="cancel_button_image_alpha">127</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
+    <string name="Setup">Setup...</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -441,6 +442,10 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="action_completed" translatable="false">You just told your loved one you\'re okay</string>
     <string name="app_name">Still Vertical</string>
+    <string name="contact_updated">Contact information updated successfully!</string>
+    <string name="default_email">spock_enterprise@ufp.org</string>
+    <string name="default_name">Spock</string>
+    <string name="default_phone">(123) 456-7890</string>
     <string name="elapsed_time">Elapsed time since last check-in:</string>
     <string name="email">Email:</string>
     <string name="last_time_prefix">You last told your loved one you we\'re okay on:\n "</string>

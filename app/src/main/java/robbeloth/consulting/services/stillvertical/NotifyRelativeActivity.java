@@ -3,6 +3,10 @@ package robbeloth.consulting.services.stillvertical;
 import java.util.ArrayList;
 import java.util.Calendar;
 
+import android.app.Activity;
+import android.content.Intent;
+import android.content.SharedPreferences;
+import android.content.res.Resources;
 import android.os.PersistableBundle;
 import android.os.SystemClock;
 import android.support.v7.app.AppCompatActivity;
@@ -20,10 +24,12 @@ public class NotifyRelativeActivity extends AppCompatActivity {
 
     private static final String TAG = "NRActivity";
     private static final String CHECKIN_KEY = "CHECKIN";
+    private static final int MODIFY_CONTACT_SETUP = 100;
 
     private Button mIAmOkayButton;
     private Button mPrevButton;
     private Button mNextButton;
+    private Button setupButton;
     private Chronometer mLastTimeRelativeWasOkay;
     private TextView mPrevCheckins;
     private ArrayList<Notification> mNotificationArrayList = new ArrayList<>();
@@ -153,6 +159,40 @@ public class NotifyRelativeActivity extends AppCompatActivity {
                 mPrevCheckins.setText(d.toString());
             }
         });
+
+        setupButton = (Button) findViewById(R.id.setup_button);
+        setupButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Resources rs = getResources();
+                /* Restore contact info from previous app session if available; if not,
+                *  use some default data */
+                SharedPreferences sp =  getSharedPreferences(
+                        NotificationSetupActivity.CONTACT_INFO_IN_SP, 0);
+                String name = sp.getString(NotificationSetupActivity.NAME_KEY,
+                              rs.getString(R.string.default_name));
+                String phone = sp.getString(NotificationSetupActivity.PHONE_KEY,
+                               rs.getString(R.string.default_phone));
+                String email = sp.getString(NotificationSetupActivity.EMAIL_KEY,
+                               rs.getString(R.string.default_email));
+                Intent intent = NotificationSetupActivity.newIntent(NotifyRelativeActivity.this,
+                        name, phone, email);
+                startActivityForResult(intent, MODIFY_CONTACT_SETUP);
+            }
+        });
+    }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+
+        if (requestCode == MODIFY_CONTACT_SETUP) {
+            if (resultCode == Activity.RESULT_OK) {
+                Toast t  = Toast.makeText(
+                        NotifyRelativeActivity.this, R.string.contact_updated,  Toast.LENGTH_SHORT);
+                t.show();
+            }
+        }
     }
 
     @Override
