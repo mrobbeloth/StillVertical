@@ -25,6 +25,12 @@
         android:layout_height="wrap_content"
         android:text="@string/okay_button"/>
 
+    <Button
+        android:id="@+id/setup_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Setup"/>
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
